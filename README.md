@@ -4,6 +4,10 @@ A lightweight, client‑side web app to convert Excel (.xlsx, .xls) and CSV file
 
 > Data processing happens entirely in your browser. Your files never leave your device.
 
+## Live demo
+
+https://excel-json-converter.netlify.app/
+
 ## Features
 
 - Drag & drop or file picker input
