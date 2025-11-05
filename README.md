@@ -80,4 +80,4 @@ You can try it with the included sample: `intel-cpus.csv`.
 
 ## License
 
-Add a license of your choice (e.g., MIT) in a `LICENSE` file.
+This project is licensed under the MIT License — see `LICENSE` for details.
